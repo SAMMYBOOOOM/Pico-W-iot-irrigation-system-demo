@@ -154,3 +154,6 @@ if __name__ == '__main__':
         flask_thread.join(timeout=1)
         print("Application closed.")
 ```
+
+## License
+This project is licensed under the GNU Affero General Public License v3.0 (AGPL-3.0). 
