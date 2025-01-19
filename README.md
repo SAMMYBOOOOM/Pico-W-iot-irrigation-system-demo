@@ -6,7 +6,7 @@ This project is an IoT-based irrigation system built using the Raspberry Pi Pico
 - [Introduction](#Introduction)
 - [Components](#Components)
 - [Functionality](#Functionality)
-- [Getting Started](#Getting Started)
+- [Getting Started](#Getting_Started)
 - [License](#license)
 
 ![pic0](https://github.com/SAMMYBOOOOM/Pico-W-iot-irrigation-system-demo/blob/main/img/pic0.png)
@@ -47,7 +47,7 @@ Used (In demo)
 | Multicore                        | Y           |
 When browsing the imageStream site, part of IoT will stop working
 
-## Getting Started
+## Getting_Started
 1. Clone the repository:
 2. Install dependencies:
 Ensure you have the necessary [libraries](https://github.com/SAMMYBOOOOM/Pico-W-iot-irrigation-system-demo/tree/main/lib) installed for the Raspberry Pi Pico W.
