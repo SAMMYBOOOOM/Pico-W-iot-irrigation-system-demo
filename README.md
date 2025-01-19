@@ -10,7 +10,7 @@ This project is an IoT-based irrigation system built using the Raspberry Pi Pico
 - [License](#license)
 
 ![pic0](https://github.com/SAMMYBOOOOM/Pico-W-iot-irrigation-system-demo/blob/main/img/pic0.png)
-![pic1](https://github.com/SAMMYBOOOOM/Pico-W-iot-irrigation-system-demo/blob/main/img/pic1.png)
+![animation](https://github.com/SAMMYBOOOOM/Pico-W-iot-irrigation-system-demo/blob/main/img/animation.gif)
 ![terminal](https://github.com/SAMMYBOOOOM/Pico-W-iot-irrigation-system-demo/blob/main/img/terminal.png)
 ![line](https://github.com/SAMMYBOOOOM/Pico-W-iot-irrigation-system-demo/blob/main/img/line.png)
 ![mqtt](https://github.com/SAMMYBOOOOM/Pico-W-iot-irrigation-system-demo/blob/main/img/mqtt.png)
