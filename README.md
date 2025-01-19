@@ -45,6 +45,7 @@ Used (In demo)
 | mqtt(send mul)                   | Y           |
 | mqtt(receive single)             | Y           |
 | Multicore                        | Y           |
+
 When browsing the imageStream site, part of IoT will stop working
 
 ## Getting_Started
