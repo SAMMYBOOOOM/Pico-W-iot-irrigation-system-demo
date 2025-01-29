@@ -14,6 +14,8 @@ This project is an IoT-based irrigation system built using the Raspberry Pi Pico
 ![terminal](https://github.com/SAMMYBOOOOM/Pico-W-iot-irrigation-system-demo/blob/main/img/terminal.png)
 ![line](https://github.com/SAMMYBOOOOM/Pico-W-iot-irrigation-system-demo/blob/main/img/line.png)
 ![mqtt](https://github.com/SAMMYBOOOOM/Pico-W-iot-irrigation-system-demo/blob/main/img/mqtt.png)
+![Web interface](https://github.com/SAMMYBOOOOM/Pico-W-iot-irrigation-system-demo/blob/main/img/Web.png)
+![Usbcam](https://github.com/SAMMYBOOOOM/Pico-W-iot-irrigation-system-demo/blob/main/img/Usbcam.png)
 
 ## Introduction:
 The Raspberry Pi Pico W Irrigation System is designed to automate the process of watering plants based on soil moisture levels. The system uses a moisture sensor to monitor the soil's moisture content and controls a water pump via a relay. The system also includes an OLED display for local monitoring, a web interface for remote control, and integration with LINE messaging API and MQTT for notifications and remote commands.
